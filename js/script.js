@@ -3,9 +3,9 @@ $(function(){
       $('.drawer').drawer();
   });
 });
-    
+
 $(function(){
- <!-- wow利用宣言 -->
+//  wow利用宣言
     new WOW().init();
 });
- 
+
